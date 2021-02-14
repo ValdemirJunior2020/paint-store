@@ -1,0 +1,9 @@
+<h2>Paint List</h2>
+<ul>
+    <li  *ngFor="let paint of paints">{{paint.name}} {{paint.type}} 
+        <button (click)="deletePaint(paint.id)">X</button>
+        <a [routerLink]="['/edit',paint.id]"><button>edit</button></a>
+    
+    </li>
+
+</ul>
