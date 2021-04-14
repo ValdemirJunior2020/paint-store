@@ -1,0 +1,25 @@
+{
+  "paints": [
+    {
+      "name": "Benjamim Moore",
+      "type": "Aura",
+      "id": 2
+    },
+    {
+      "name": "Sherwin William",
+      "type": "duration-satin",
+      "id": 3
+    },
+    {
+      "id": 4
+    },
+    {
+      "name": "Sherwin William",
+      "type": "super classic semi-gloss",
+      "id": 5
+    },
+    {
+      "id": 6
+    }
+  ]
+}
